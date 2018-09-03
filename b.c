@@ -1,6 +1,6 @@
 #include <stdio.>
 int main ()
 {
-	prinf ("TPZHENG");     //郑太鹏
+	prinf ("TPZHENG");     
 	return 0;
 }
